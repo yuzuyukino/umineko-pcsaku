@@ -21,7 +21,7 @@ patch for translating Uminko Saku to Chinese
 
   1. 在你的电脑上安装一份咲的本体游戏。
   2. 打开游戏安装目录。（默认路径为C:\Program Files (x86)\07th Expansion\uminekoSaku_Disc2\うみねこのなく頃に咲）
-  3. 为将游戏默认字体更换为补丁使用的默认字体（黑体），你需要将游戏目录中的文件夹 *fonts* 以及字体文件 *default.ttf* 重命名为游戏无法识别的形式，如 *fonts_0* 和 *default_0.ttf*. 或者你也可以直接将这二者删除但我并不推荐，因为6.的缘故。
+  3. 为将游戏默认字体更换为补丁使用的默认字体（黑体），你需要将游戏目录中的文件夹 *fonts* 以及字体文件 *default.ttf* 重命名为游戏无法识别的形式，如 *fonts_0* 和 *default_0.ttf*. 或者你也可以直接将这二者删除但我不推荐这样做，因为5.的缘故。
   4. 将你下载的补丁压缩包直接解压到游戏目录中（应包含有四项：bmp、0.utf、default.ttf、海猫鸣泣之时咲.exe），解压后你的游戏目录应是这个样子：
 ![aaa](https://github.com/yuzuyukino/umineko-pcsaku/assets/158812289/e6e3ae14-21b9-45d9-9bab-baaaf347a086)
 
