@@ -9,7 +9,7 @@ patch for translating Uminko Saku to Chinese
 
   除我以外，还有下面的个人或团体对该项目做出不可或缺的贡献（排名不分先后）：
 
-  - [07th-mod](https://github.com/07th-mod/)：PONscripter的维护
+  - [07th-mod](https://github.com/07th-mod/)：Ponscripter的开发和维护
   - linyueru8954，海喵鸣泣：《吾等的告白》文本的翻译
   - MMR六轩岛调查队：本体汉化补丁的assets帮我节省了大量的时间
   - [日不落汉化组](https://snsteam.club/)：对《Last note》翻译文本的授权
@@ -30,4 +30,11 @@ patch for translating Uminko Saku to Chinese
   7. 运行 *海猫鸣泣之时咲.exe* .（为避免可能的问题，请尽量右键选择以管理员身份运行）
   8. Enjoy! 
   
+## Issues
+
+  目前该补丁或者说Ponscripter引擎本身的一个bug是当你在游戏中查看历史文本时，backlog文本框会不自然地向左偏移一小段而不是居中，并且偏移的距离与你使用的字体有关。我只测试过黑体、宋体以及游戏自带的默认字体，三者偏移量：黑体>宋体>默认>0. 也就是说如果你将游戏字体更换为这三者以外的其他字体后有可能出现的问题是历史文本会超出窗口范围，**最坏的情况下游戏可能会崩溃**。如果你遇到了这个问题，请反馈你所使用的字体并尝试更换为其他字体。
+
+  
+  ![2](https://github.com/yuzuyukino/umineko-pcsaku/assets/158812289/ad913d42-f065-4303-9752-4083c193050d)
+![1](https://github.com/yuzuyukino/umineko-pcsaku/assets/158812289/ea4b25b9-1446-4364-afe4-8ad02790b771)
 
