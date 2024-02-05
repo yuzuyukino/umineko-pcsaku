@@ -3,7 +3,19 @@ patch for translating Uminko Saku to Chinese
 
 ## Introduction
 
-  该补丁用于将2019年10月4日发布的[海猫鸣泣之时咲](https://07th-expansion.net/umi_gensaku)中的两篇新内容“吾等的告白”以及“Last note of the Golden witch”翻译为简体中文，**并不包含本体游戏**。所以在使用补丁前你需要一份已安装的游戏资源，目前你可以在[这些店铺](https://07th-expansion.net/archives/4041)中购买正版copy.
+  该补丁用于将2019年10月4日发布的[海猫鸣泣之时咲](https://07th-expansion.net/umi_gensaku)中的两篇新内容《吾等的告白》以及《Last note of the Golden witch》翻译为简体中文，**并不包含本体游戏**。所以在使用补丁前你需要一份已安装的游戏资源，目前你可以在[这些店铺](https://07th-expansion.net/archives/4041)中购买正版copy.
+
+## Credits
+
+  除我以外，还有下面的个人或团体对该项目做出不可或缺的贡献（排名不分先后）：
+
+  - [07th-mod](https://github.com/07th-mod/)：PONscripter的维护
+  - linyueru8954，海喵鸣泣：《吾等的告白》文本的翻译
+  - MMR六轩岛调查队：本体汉化补丁的assets帮我节省了大量的时间
+  - [日不落汉化组](https://snsteam.club/)：对《Last note》翻译文本的授权
+    - LUMI：翻译/润色
+    - RAN：校对
+  
 
 ## Instructions
 
@@ -14,13 +26,8 @@ patch for translating Uminko Saku to Chinese
 ![aaa](https://github.com/yuzuyukino/umineko-pcsaku/assets/158812289/e6e3ae14-21b9-45d9-9bab-baaaf347a086)
 
   5. 若在安装补丁后你想要将游戏回退为日文原版，只需依次撤销上述4->3的步骤，即删除补丁文件，取消重命名等。
-  6. 若你需要更换文本显示字体，请将你想要的字体文件重命名为*default.ttf*并复制替换到游戏目录中。
+  6. 若你需要更换文本显示字体，请将你想要的字体文件重命名为 *default.ttf* 复制并替换到游戏目录中。
   7. 运行 *海猫鸣泣之时咲.exe* .（为避免可能的问题，请尽量右键选择以管理员身份运行）
   8. Enjoy! 
   
-## Credits
 
-  除我以外，还有下面的个人或团体对该项目做出不可或缺的贡献：
-  
-  - 
-  
